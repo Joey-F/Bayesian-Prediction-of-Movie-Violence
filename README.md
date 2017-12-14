@@ -1,0 +1,2 @@
+# Bayesian-Prediction-of-Movie-Violence
+In this paper, we aim to model the kill count of Quentin Tarantino's movies and make predictions about future results. We withhold his latest film, "The Hateful Eight", and use it to validate our model. Our model predicts an expected kill count of 14 on-screen deaths; we see a total of 16 on-screen deaths in The Hateful Eight. This gives us a high degree of confidence in our model.
